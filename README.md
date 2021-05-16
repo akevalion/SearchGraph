@@ -1,2 +1,2 @@
 # SearchGraph
- basic graf
+ basic graph
